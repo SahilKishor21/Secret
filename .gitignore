@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 # Logs
 logs
 *.log
@@ -80,4 +80,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+.package-lock.json
+.package.json
  
